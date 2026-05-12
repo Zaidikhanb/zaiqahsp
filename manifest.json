@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "zaidpage1.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "zaidpage1.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "ZAID",
+  "description": "Install It"
+}
